@@ -1,4 +1,7 @@
 # React-Interview
-React project using hooks like: useMemo, useEffect, useState, useCallBack
+React cat generator to practice tipic intervies
 
-![image](https://user-images.githubusercontent.com/71731922/236954819-5eefaa02-fc26-4bc0-a995-0ac173ffc9d8.png)
+The photo is dependent on the fact that is called with the first fetch, and renders the first 3 words of the fact
+Used Customs hooks and testing with playwright
+
+![image](https://github.com/Nixx-A/React-Cat-Generator/assets/71731922/c35a6530-cb4c-4d47-94c2-89bce7f43439)
